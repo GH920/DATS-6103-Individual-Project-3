@@ -4,7 +4,7 @@
 <p>
 <center>
 <font size="6">
-Project 2: Airbnb Pricing Strategy
+Project 3: Airbnb Pricing Strategy
 </font>
 </center>
 </p>
